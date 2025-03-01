@@ -41,8 +41,8 @@ The system presents users with:
 - An image of the recommended clothing item.
 - A transformed image where they appear to be wearing the suggested clothing.
 
-## Additional Resources
-[Google Drive with Project Files](https://drive.google.com/drive/folders/14wBLooJTVKv14Yy-vatcOyuBT59Z-gCB?usp=sharing)
+## Demo
+[Google Drive with Video Demo](https://drive.google.com/drive/folders/14wBLooJTVKv14Yy-vatcOyuBT59Z-gCB?usp=sharing)
 
 ## Future Improvements
 - Enhancing clothing fit realism using diffusion models.
